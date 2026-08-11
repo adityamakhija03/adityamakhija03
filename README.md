@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Makhija</h1>
 <h3 align="center">A passionate full Stack developer</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
-
-- 💬 Ask me about **react and gsap**
-
 - 📫 How to reach me **aditya3makhija@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
